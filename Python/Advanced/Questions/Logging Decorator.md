@@ -39,4 +39,3 @@ Function 'add_numbers' returned: 15
 - Correctness: Does the decorator work as expected?
 - Readability: Is the code clean and well-commented?
 - Flexibility: Can it handle various function signatures?
-- Error Handling: Does it gracefully handle and log exceptions?
