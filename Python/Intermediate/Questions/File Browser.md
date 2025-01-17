@@ -33,11 +33,6 @@ Line 2 of File 2
 
 ## Example Console Session
 
-### Starting the Program
-```bash
-python file_browser.py file1.txt file2.txt
-```
-
 ### Interaction Log
 ```text
 Line 1 of File 1
