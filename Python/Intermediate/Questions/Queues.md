@@ -30,6 +30,11 @@ Create a snake game where the snake's movement and growth are managed using a qu
    - Score tracking
    - Food placement logic
 
+3. Allowed Imports
+   - Pygame for graphics
+   - Random library for food placement
+   - NONE other than the above
+
 ## Bonus Features
 - High score system
 - Increasing difficulty
